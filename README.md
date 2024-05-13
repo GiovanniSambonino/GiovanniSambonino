@@ -31,7 +31,8 @@ proyectos y mis intereses.
 ## Intereses
 
 * [Lista de tus intereses]
-  Diferentes Culturas 🧝🧙🧛
-  Musica 🎼🎸
-  Lectura 📕📖📗
-  Dormi 💤😴🛌
+  
+   * Diferentes Culturas 🧝🧙🧛
+   * Musica 🎼🎸
+   * Lectura 📕📖📗
+   * Dormi 💤😴🛌
