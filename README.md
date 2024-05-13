@@ -11,6 +11,8 @@ proyectos y mis intereses.
 * [Proyectos](#proyectos)
 
 * [Intereses](#intereses)
+  
+  
 
 ## Información personal
 
@@ -29,3 +31,7 @@ proyectos y mis intereses.
 ## Intereses
 
 * [Lista de tus intereses]
+  Diferentes Culturas 🧝🧙🧛
+  Musica 🎼🎸
+  Lectura 📕📖📗
+  Dormi 💤😴🛌
