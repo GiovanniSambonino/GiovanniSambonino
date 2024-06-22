@@ -1,6 +1,16 @@
 # Mi sitio personal
-| Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis proyectos y mis intereses. | <img src="tempo-programação.png" width="60%"> |
-| ----------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="border: none; padding: 10px; vertical-align: top;">
+      Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis proyectos y mis intereses.
+    </td>
+    <td style="border: none; padding: 10px; text-align: center; vertical-align: top;">
+      <a href="https://www.hostinger.es/tutoriales/wp-content/uploads/sites/7/2018/07/aprender-programar-gratis.webp">
+        <img src="tempo-programação.png" width="60%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ## Contenido
