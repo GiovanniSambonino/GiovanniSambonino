@@ -1,14 +1,7 @@
 # Mi sitio personal
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex: 1; padding-right: 20px;">
-    Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis proyectos y mis intereses.
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <a href="https://www.hostinger.es/tutoriales/wp-content/uploads/sites/7/2018/07/aprender-programar-gratis.webp">
-      <img width="60%" src="tempo-programação.png" />
-    </a>
-  </div>
-</div>
+| Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis proyectos y mis intereses. | <img src="tempo-programação.png" width="60%"> |
+| ----------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+
 
 ## Contenido
 
