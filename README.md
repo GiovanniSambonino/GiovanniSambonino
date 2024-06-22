@@ -13,6 +13,7 @@
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 * [Contacto](#contacto)
+* [Redes Sociales](#Redes)
   
 ## Información personal
 * Nombre: Giovanni Andre Sambonino Pincay
@@ -34,7 +35,9 @@ Estudiante comprometido de la Escuela Superior Politécnica del Litoral, me apas
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
 ## Proyectos
-
+* Creador de Emojis en colaboracion con [Jeremy Poveda](https://github.com/Jeremy-Poveda) y [LeoParra03](https://github.com/LeoParra03)
+*[Aplicacion de Delivery] (https://github.com/JoelOrrala) en colaboracion con [JoelOrrala](https://github.com/JoelOrrala) y [LuisLuna](https://github.com/luisluna2307)
+* Diccionario en colaboracion con [Jeremy Poveda](https://github.com/Jeremy-Poveda)
 <a href=#><img src="contributions.svg"></a>
 ## Intereses
 * Cocina 👨‍🍳🍱
@@ -43,7 +46,7 @@ Estudiante comprometido de la Escuela Superior Politécnica del Litoral, me apas
 * Programacion 💻🖥
 
 Buscando nuevas oportunidades para ampliar mis habilidades y enfrentar desafíos tecnológicos. Mi objetivo es contribuir al desarrollo de soluciones innovadoras que mejoren la vida de las personas.
- ## Redes Sociales
+ ## Redes
  [<img align="left" alt="Giovanni Sambonino| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Giovanni Sambonino | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
