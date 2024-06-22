@@ -3,7 +3,7 @@
 Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
 
 proyectos y mis intereses.
-<p align="center"><a href="https://www.hostinger.es/tutoriales/wp-content/uploads/sites/7/2018/07/aprender-programar-gratis.webp"><img width="40%" src="tempo-programação.png" /></a></p>
+<p align="center"><a href="https://www.hostinger.es/tutoriales/wp-content/uploads/sites/7/2018/07/aprender-programar-gratis.webp"><img width="60%" src="tempo-programação.png" /></a></p>
 
 ## Contenido
 
