@@ -1,52 +1,51 @@
 # Mi sitio personal
-
-Este es mi sitio personal. Aquí puedes encontrar información sobre mí, misproyectos y mis intereses.
 <p align="center"><a href="https://www.hostinger.es/tutoriales/wp-content/uploads/sites/7/2018/07/aprender-programar-gratis.webp"><img width="60%" src="tempo-programação.png" /></a></p>
-
+Este es mi sitio personal. Aquí puedes encontrar información sobre mí, misproyectos y mis intereses.
 
 ## Contenido
-
 * [Información personal](#información-personal)
-
+* [Technologias](#Technologias)
 * [Proyectos](#proyectos)
-
 * [Intereses](#intereses)
+* [Contacto](#contacto)
   
-  
-
 ## Información personal
-
-<p align= "right">
 * Nombre: Giovanni Andre Sambonino Pincay
-* Ocupación: Estudiante
-</p>
-<p align= "Left">
-* Lugar de residencia: Guayaquil 
-* Sitio web: N/A
-</p>
-  
+* Ocupacion: Estudiante
+* Lugar de Residencia: Guayaquil
+* Website: N/A
 
-## Información personal
+Estudiante comprometido de la Escuela Superior Politécnica del Litoral, me apasiona cocinar, programar, leer libros, escuchar música y el mundo de los videojuegos. Disfruto colaborando en proyectos grupales donde puedo aplicar mis conocimientos y aprender de los demás.
 
-* Nombre: Giovanni Andre Sambonino Pincay
-
-* Ocupación: Estudiante
-
-* Lugar de residencia: Guayaquil 
-
-* Sitio web: N/A
-
-Estudiante comprometido de la Escuela Superior Politécnica del Litoral (ESPOL), me apasiona la cocina, la programación, leer libros, escuchar música y el mundo de los videojuegos. Actualmente, me encuentro en preparación académica en la carrera de Ingeniería en Ciencias de la Computación. Disfruto colaborar en proyectos grupales donde puedo aplicar mis conocimientos y aprender de los demás. Siempre estoy buscando nuevas oportunidades para expandir mis habilidades y enfrentar desafíos tecnológicos. Mi objetivo es contribuir al desarrollo de soluciones innovadoras que mejoren la vida de las personas. Además, me encanta explorar nuevas tendencias en tecnología y mantenerme actualizado con los avances en mi campo. En mi tiempo libre, suelo experimentar con nuevas recetas en la cocina, también dedico tiempo a la lectura, principalmente de literatura de accion y libros técnicos que me ayuden a profundizar en mis estudios. Soy una persona proactiva y me encanta trabajar en equipo, ya que creo firmemente que la colaboración y el intercambio de ideas son fundamentales para el éxito de cualquier proyecto. Mi objetivo final es convertirme en un ingeniero en Ciencias de la Computación altamente competente y contribuir significativamente a la industria tecnológica.
+### Technologias
+  ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-flat&logo=Python)
+  ![visualstudiocode](https://img.shields.io/badge/Visual_Studio_Code-333333?style=plastic&logo=visualstudiocode)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=SASS&logoColor=CE6B9E)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
 ## Proyectos
 
 * [Lista de tus proyectos]
 
+
 ## Intereses
 
-* [Lista de tus intereses]
-  
-   * Diferentes Culturas 🧝🧙🧛
+   * Cocina 👨‍🍳🍱
    * Musica 🎼🎸
    * Lectura 📕📖📗
-   * Dormi 💤😴🛌
+   * Programacion 💻🖥
+
+Buscando nuevas oportunidades para ampliar mis habilidades y enfrentar desafíos tecnológicos. Mi objetivo es contribuir al desarrollo de soluciones innovadoras que mejoren la vida de las personas.
+ ## Redes Sociales
+ [<img align="left" alt="Giovanni Sambonino| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Giovanni Sambonino | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+ [twitter]: https://x.com/YuyoAndre
+ [linkedin]: https://www.linkedin.com/in/giovanni-sambonino-b30130315/
+
