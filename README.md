@@ -1,6 +1,6 @@
 # Mi sitio personal
 <p align="center"><a href="https://www.hostinger.es/tutoriales/wp-content/uploads/sites/7/2018/07/aprender-programar-gratis.webp"><img width="60%" src="tempo-programação.png" /></a></p>
-Este es mi sitio personal. Aquí puedes encontrar información sobre mí, misproyectos y mis intereses.
+<p align="center">Este es mi sitio personal. Aquí puedes encontrar información sobre mí, misproyectos y mis intereses.</p>
 
 ## Contenido
 * [Información personal](#información-personal)
@@ -30,15 +30,11 @@ Estudiante comprometido de la Escuela Superior Politécnica del Litoral, me apas
 
 ## Proyectos
 
-* [Lista de tus proyectos]
-
-
 ## Intereses
-
-   * Cocina 👨‍🍳🍱
-   * Musica 🎼🎸
-   * Lectura 📕📖📗
-   * Programacion 💻🖥
+* Cocina 👨‍🍳🍱
+* Musica 🎼🎸
+* Lectura 📕📖📗
+* Programacion 💻🖥
 
 Buscando nuevas oportunidades para ampliar mis habilidades y enfrentar desafíos tecnológicos. Mi objetivo es contribuir al desarrollo de soluciones innovadoras que mejoren la vida de las personas.
  ## Redes Sociales
