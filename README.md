@@ -36,7 +36,7 @@ Estudiante comprometido de la Escuela Superior Politécnica del Litoral, me apas
 
 ## Proyectos
 * [Creador de Emojis](https://github.com/Jeremy-Poveda/Custom-Emoji-Creator) en colaboracion con [Jeremy Poveda](https://github.com/Jeremy-Poveda) y [LeoParra03](https://github.com/LeoParra03)
-* [Aplicacion de Delivery] (https://github.com/JoelOrrala) en colaboracion con [JoelOrrala](https://github.com/JoelOrrala) y [LuisLuna](https://github.com/luisluna2307)
+* [Aplicacion de Delivery](https://github.com/JoelOrrala) en colaboracion con [JoelOrrala](https://github.com/JoelOrrala) y [LuisLuna](https://github.com/luisluna2307)
 * [Diccionario](https://github.com/Jeremy-Poveda/Proyecto02-EstructuraDeDatos) en colaboracion con [Jeremy Poveda](https://github.com/Jeremy-Poveda)
 <a href=#><img src="contributions.svg"></a>
 ## Intereses
