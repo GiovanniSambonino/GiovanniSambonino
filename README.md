@@ -1,5 +1,10 @@
 # Mi sitio personal
-<p align="center"><a href="https://www.hostinger.es/tutoriales/wp-content/uploads/sites/7/2018/07/aprender-programar-gratis.webp"><img width="60%" src="tempo-programação.png" /></a></p>
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=GiovanniSambonino&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=GiovanniSambonino&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
+</a>
 <p align="center">Este es mi sitio personal. Aquí puedes encontrar información sobre mí, misproyectos y mis intereses.</p>
 
 ## Contenido
