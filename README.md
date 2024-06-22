@@ -35,9 +35,9 @@ Estudiante comprometido de la Escuela Superior Politécnica del Litoral, me apas
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
 ## Proyectos
-* Creador de Emojis en colaboracion con [Jeremy Poveda](https://github.com/Jeremy-Poveda) y [LeoParra03](https://github.com/LeoParra03)
-*[Aplicacion de Delivery] (https://github.com/JoelOrrala) en colaboracion con [JoelOrrala](https://github.com/JoelOrrala) y [LuisLuna](https://github.com/luisluna2307)
-* Diccionario en colaboracion con [Jeremy Poveda](https://github.com/Jeremy-Poveda)
+* [Creador de Emojis](https://github.com/Jeremy-Poveda/Custom-Emoji-Creator) en colaboracion con [Jeremy Poveda](https://github.com/Jeremy-Poveda) y [LeoParra03](https://github.com/LeoParra03)
+* [Aplicacion de Delivery] (https://github.com/JoelOrrala) en colaboracion con [JoelOrrala](https://github.com/JoelOrrala) y [LuisLuna](https://github.com/luisluna2307)
+* [Diccionario](https://github.com/Jeremy-Poveda/Proyecto02-EstructuraDeDatos) en colaboracion con [Jeremy Poveda](https://github.com/Jeremy-Poveda)
 <a href=#><img src="contributions.svg"></a>
 ## Intereses
 * Cocina 👨‍🍳🍱
